@@ -17,7 +17,7 @@ Utilities to extract and convert Ascendancy game resources (in Python 3).
     ./cob.py ASCEND02.COB cob2
 
     cob0/*.txt - plain text files
-     *.dip - plain text diplomacy files
+         *.dip - plain text diplomacy files
 
     cob1/data/*.dll - crap
               *.fnt - font files => font.py cob1/data/bifont.fnt cob1/data/game.pal
